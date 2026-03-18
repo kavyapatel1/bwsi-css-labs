@@ -1,4 +1,4 @@
-robot_speed = 5 # m/s
+robot_speed = 3 # m/s
 
 """
 lab_1a.py
