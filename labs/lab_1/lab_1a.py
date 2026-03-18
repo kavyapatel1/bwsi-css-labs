@@ -1,3 +1,5 @@
+robot_speed = 5 # m/s
+
 """
 lab_1a.py
 
