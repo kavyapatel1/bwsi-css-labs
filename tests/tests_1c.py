@@ -13,6 +13,7 @@ def test_empty_list():
     
 def test_different_lists():
     assert max_subarray_sum(nums = [0, 3, 4, 6,]) == 13         # Test for different lists
-    assert max_subarray_sum(nums = [-1, -2, -3, -4,]) == -3         # Test for different lists
+    assert max_subarray_sum(nums = [-1, -2, -3, -4,]) == -1         # Test for different lists
     assert max_subarray_sum(nums = [-2, 2, 6, 10,]) == 18         # Test for different lists
     assert max_subarray_sum(nums = [2, 4, -5, -4,]) == 6         # Test for different lists
+   
